@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 /**
  * This class represents a Used Car Lot.
+ * This is the edit i am making. i made this edit. woohoo.
  * @author Max Klot
  *
  */
